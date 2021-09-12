@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    app:labelVisibilityMode="labeled"
+
+    <item
+        android:id="@+id/listaprodotti"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="Compra"
+
+        />
+    <item
+        android:id="@+id/listaspese"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_basket_24"
+        android:title="Spese"
+
+        />
+    <item
+        android:id="@+id/saldi"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="Saldo"/>
+    <item
+        android:id="@+id/statistiche"
+        android:enabled="true"
+        android:icon="@drawable/pie_chart"
+        android:title="Statistiche"/>
+</menu>

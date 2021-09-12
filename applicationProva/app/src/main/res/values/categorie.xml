@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorie">
+        <item>Seleziona categoria</item>
+        <item>Cibo</item>
+        <item>Bagno</item>
+        <item>Casa</item>
+        <item>Salute</item>
+        <item>Divertimento</item>
+        <item>Altro</item>
+    </string-array>
+</resources>
